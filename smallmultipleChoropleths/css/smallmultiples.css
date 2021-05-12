@@ -24,7 +24,7 @@ body {
 .polygons {
   fill: #e6e6e6;
   stroke: #dadada;
-  stroke-width: 1px;
+  stroke-width: 0.5px;
   opacity: 0.85;
 }
 .axes {
